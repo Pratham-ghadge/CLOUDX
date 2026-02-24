@@ -1,0 +1,2 @@
+# CLOUDX
+Azure Hosting
